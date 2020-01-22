@@ -31,7 +31,7 @@
     "file-loader": "0.11.2",
     "fs-extra": "3.0.1",
     "html-webpack-plugin": "2.29.0",
-    "jest": "20.0.4",
+    "jest": "23.0.0",
     "nprogress": "^0.2.0",
     "object-assign": "4.1.1",
     "photoswipe": "^4.1.2",
@@ -54,7 +54,7 @@
     "sw-precache-webpack-plugin": "0.11.3",
     "url-loader": "0.5.9",
     "webpack": "2.6.1",
-    "webpack-dev-server": "2.5.0",
+    "webpack-dev-server": "2.11.4",
     "webpack-manifest-plugin": "1.1.0",
     "whatwg-fetch": "2.0.3"
   },
